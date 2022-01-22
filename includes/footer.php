@@ -4,10 +4,10 @@
             <div class="row">
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12">
                     <div class="contact">
-                        <h3>conatct us</h3>
+                        <h3>Conatct us</h3>
                         <span>Dibrugarh<br>
                             Assam, India<br>
-                            <a href="tel:+910123456789" style='color: #fff;'>+91 0123456789</a><br>
+                            <a href="tel:+910123456789" style='color: #fff;'>+91 123456789</a><br>
                             <a href="mailto:contact@eventx.com" style='color: #fff;'>contact@eventx.com</a>
                         </span>
                     </div>
